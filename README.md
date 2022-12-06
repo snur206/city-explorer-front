@@ -20,3 +20,33 @@
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+
+Name of feature: 1. Set up your React repository & API keys.
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 2:10
+
+Finish time: 3:45
+
+Actual time needed to complete: 1 hour 35 minutes
+
+Name of feature: 2. Locations
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:50
+
+Finish time: 6:25
+
+Actual time needed to complete: 2 hours 25 minutes
+
+Name of feature: 3. Map
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:30
+
+Finish time:
+
+Actual time needed to complete:
