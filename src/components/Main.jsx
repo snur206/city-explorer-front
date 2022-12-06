@@ -36,7 +36,7 @@ cityEntree = (e) => {
           <Form onSubmit= {this.handleLocationSearch}>
             <Form.Label>Search City</Form.Label>
             <Form.Control onInput={this.cityEntree} type="text" name ="city" placeholder="enter city"/>
-            <Button type="submit" color="blue">Explore!</Button>
+            <Button type="submit">Explore!</Button>
           </Form>
 
             <p>{this.state.locationData.display_name}</p>

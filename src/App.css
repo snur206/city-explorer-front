@@ -32,6 +32,14 @@
   }
 } 
 header {
+	
+	color: black;
+	
+}
+* {
+	list-style-type: none;
+	padding: 10px;
+	font-family: 'Dancing Script', cursive;
+    font-family: 'Nanum Myeongjo', serif;
 	background-color: antiquewhite;
-	color: grey
 }
